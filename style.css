@@ -1,0 +1,12 @@
+.font-montserrat { font-family: "Montserrat", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; }
+.swiper-pagination-bullet {
+    width: 8px;
+    height: 8px;
+    background-color: #999; /* inactive bullets */
+    opacity: 0.6;
+  }
+
+  .swiper-pagination-bullet-active {
+    background-color: #ce2a4a; /* active bullet */
+    opacity: 1;
+  }

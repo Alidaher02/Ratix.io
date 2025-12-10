@@ -1,0 +1,293 @@
+[
+    {
+      "id": 1,
+      "name": "Doctor Strange",
+      "img": "./img/movie10.jfif",
+      "rating": "7.5",
+      "section": "top",
+      "trailer": "https://www.youtube.com/embed/h7gvFravm4A?si=lpJ5hkoiyl-MYU5E",
+      "description": "After a life-changing accident, brilliant surgeon Stephen Strange discovers the world of mystic arts and becomes the Sorcerer Supreme to protect Earth from dark forces."
+    },
+    {
+      "id": 2,
+      "name": "Avatar: The Way of Water",
+      "img": "./img/movie8.webp",
+      "rating": "7.5",
+      "section": "top",
+      "trailer": "https://www.youtube.com/embed/d9MyW72ELq0?si=Z9DjhD1FdRJPW0du",
+      "description": "Jake Sully and Neytiri, now parents, must protect their family as they explore new ocean cultures on Pandora while an old enemy returns for revenge."
+    },
+    {
+      "id": 3,
+      "name": "ZOOTOPIA 2",
+      "img": "./img/movie2.webp",
+      "rating": "7.7",
+      "section": "top",
+      "trailer": "https://www.youtube.com/embed/sEgPQ7HKoBA?si=MMgwJOckJmjH0Yt5",
+      "description": "Judy Hopps and Nick Wilde return for another high-energy adventure as unexpected threats arise in the city of Zootopia."
+    },
+    {
+      "id": 4,
+      "name": "the dark knight",
+      "img": "./img/movie7.jpg",
+      "rating": "9.1",
+      "section": "top",
+      "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY?si=bzAYLyEdcYTSqHh_",
+      "description": "Batman faces the Joker, a criminal mastermind who unleashes chaos across Gotham and pushes the Dark Knight to his moral limits."
+    },
+    {
+      "id": 5,
+      "name": "the huner games",
+      "img": "./img/movie9.jfif",
+      "rating": "7.5",
+      "section": "top",
+      "trailer": "https://www.youtube.com/embed/mfmrPu43DF8?si=UfDah6x795fQGgWv",
+      "description": "Katniss Everdeen volunteers as tribute and becomes a symbol of rebellion as she fights for survival in a deadly televised arena."
+    },
+    {
+      "id": 6,
+      "name": "Five nights at freedy's 2",
+      "rating": "5.8",
+      "img": "./img/movie1.webp",
+      "trailer": "https://www.youtube.com/embed/dSDpoobO6yM?si=S-cAmKz05pbv42yl",
+      "description": "A new security guard faces terrifying nights at Freddy Fazbear’s Pizza as the animatronics grow more hostile with hidden secrets."
+    },
+    {
+      "id": 7,
+      "name": "Wildcat",
+      "rating": "5.8",
+      "img": "./img/movie4.webp",
+      "trailer": "https://www.youtube.com/embed/STb7jxqfo1c?si=W7MI0SLt0IThQwAt",
+      "description": "A young writer on probation meets a troubled novelist, leading them into a tense journey of creativity, danger, and emotional confrontation."
+    },
+    {
+      "id": 8,
+      "name": "dracula",
+      "rating": "6.2",
+      "img": "./img/movie5.webp",
+      "trailer": "https://www.youtube.com/embed/mDfdNTf4FA0?si=MLel1BHY1EVvR7n7",
+      "description": "A terrifying re-imagining of the classic vampire story as Dracula seeks new victims while a group of survivors attempts to stop him."
+    },
+    {
+      "id": 9,
+      "name": "the shadow edge",
+      "rating": "7.2",
+      "img": "./img/movie6.webp",
+      "trailer": "https://www.youtube.com/embed/Xa6B6n3VD50?si=Sa2JA8p585whojjJ",
+      "description": "A former detective is drawn back into the criminal underworld when a mysterious assassin known as The Shadow disrupts the fragile peace."
+    },
+    {
+      "id": 10,
+      "name": "troll 2",
+      "rating": "5.4",
+      "img": "./img/movie3.webp",
+      "trailer": "https://www.youtube.com/embed/Hzk4ovnGOyw?si=vgYtwivhIC2wvsU6",
+      "description": "A family encounters strange creatures in a small town, only to discover they’re targeted by vegetarian goblins disguised as humans."
+    },
+    
+        {
+          "id": 11,
+          "name": "Die Hard",
+          "img": "./img/movie11.jpg",
+          "rating": "8.2",
+          "section": "top",
+          "trailer": "https://www.youtube.com/embed/CvHp7xJZ4_U?si=rQykYXzuHdAubLEu",
+          "description": "NYPD officer John McClane battles a group of terrorists who have taken hostages in a Los Angeles skyscraper during Christmas."
+        },
+        {
+          "id": 12,
+          "name": "The Revenant",
+          "img": "./img/movie12.jpg",
+          "rating": "8.0",
+          "section": "top",
+          "trailer": "https://www.youtube.com/embed/LoebZZ8K5N0?si=v-m3Uym2kOnLLE1O",
+          "description": "Frontiersman Hugh Glass is left for dead after a brutal bear attack and embarks on a journey of survival and revenge in the 1820s American wilderness."
+        },
+        {
+          "id": 13,
+          "name": "Interstellar",
+          "img": "./img/movie13.jpg",
+          "rating": "8.7",
+          "section": "top",
+          "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E?si=LN3TQVhfvz620d3V",
+          "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival on a new habitable planet."
+        },
+        {
+          "id": 14,
+          "name": "Wicked: For Good",
+          "img": "./img/movie13.webp",
+          "rating": "7.0",
+          "section": "top",
+          "trailer": "https://www.youtube.com/embed/vt98AlBDI9Y?si=4BmpiyBpCqm3njw8",
+          "description": "An imaginative musical adventure retelling the story of the witches of Oz, exploring their friendship, rivalry, and the events that shaped their destinies."
+        },
+        {
+          "id": 15,
+          "name": "Now You See Me",
+          "img": "./img/movie14.webp",
+          "rating": "6.2",
+          "trailer": "https://www.youtube.com/embed/-E3lMRx7HRQ?si=sKP1LpQP46xw2wlr",
+          "description": "A team of illusionists pull off bank heists during their performances and are pursued by an FBI agent determined to catch them."
+        },
+        {
+          "id": 16,
+          "name": "The Godfather",
+          "img": "./img/movie19.jfif",
+          "rating": "9.2",
+          "section": "top",
+          "trailer": "https://www.youtube.com/embed/UaVTIH8mujA?si=zf8l1ZOVC4JNuG-H",
+          "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son, leading to a saga of family and power."
+        },
+        {
+          "id": 17,
+          "name": "Inception",
+          "img": "./img/movie15.jpg",
+          "rating": "8.8",
+          "section": "top",
+          "trailer": "https://www.youtube.com/embed/YoHD9XEInc0?si=mqOHaZxqCBBYk9C3",
+          "description": "A skilled thief enters the dreams of others to steal secrets but is given a chance to have his past crimes forgiven if he can implant an idea instead."
+        },
+        {
+          "id": 18,
+          "name": "Fight Club",
+          "img": "./img/movie16.jpg",
+          "rating": "8.8",
+          "trailer": "https://www.youtube.com/embed/qtRKdVHc-cE?si=Von5BRGeO0sRGB0-",
+          "description": "An insomniac office worker forms an underground fight club with a soap salesman, sparking a chain of chaotic and anarchic events."
+        },
+        {
+          "id": 19,
+          "name": "The Lord of the Rings",
+          "img": "./img/movie18.jpg",
+          "rating": "9.0",
+          "trailer": "https://www.youtube.com/embed/aStYWD25fAQ?si=zISaS6jDM07U1pCQ",
+          "description": "A ring with mysterious powers lands in the hands of a young hobbit, Frodo. Under the guidance of Gandalf, a wizard, he and his three friends set out on a journey and land in the Elvish kingdom."
+        },
+        {
+          "id": 20,
+          "name": "The Shawshank Redemption",
+          "img": "./img/movie20.jpg",
+          "rating": "9.3",
+          "trailer": "https://www.youtube.com/embed/PLl99DlL6b4?si=cS2UQELwqrXzQMx4",
+          "description": "a powerful drama about banker Andy Dufresne (Tim Robbins), wrongly convicted of murdering his wife, who spends nearly two decades in the brutal Shawshank State Penitentiary, forming a deep friendship with fellow inmate Red (Morgan Freeman) while maintaining hope, using his financial skills for the corrupt warden, and secretly plotting a remarkable escape, exploring themes of friendship, perseverance, and freedom"
+        },
+        {
+          "id": 21,
+          "name": "Frankenstein",
+          "img": "./img/movie21.webp",
+          "rating": "7.5",
+          "trailer": "https://www.youtube.com/embed/8aulMPhE12g?si=tRswmUhG2DRgg1G8",
+          "description": "A brilliant but egotistical scientist brings a monstrous creature to life in a daring experiment that ultimately leads to the undoing of both the creator and his tragic creation."
+        },
+        {
+          "id": 22,
+          "name": "gladiator",
+          "img": "./img/movie22.jpg",
+          "rating": "8.5",
+          "trailer": "https://www.youtube.com/embed/P5ieIbInFpg?si=5rgJYt11pVi63Jom",
+          "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+        },
+        {
+          "id": 23,
+          "name": "braveheart",
+          "img": "./img/movie23.jfif",
+          "rating": "8.3",
+          "trailer": "https://www.youtube.com/embed/1NJO0jxBtMo?si=TnezgsprzuBLGC_u",
+          "description": "William Wallace, a Scottish rebel, along with his clan, sets out to battle King Edward I of England, who killed his bride a day after their marriage."
+        },
+        {
+          "id": 24,
+          "name": "Attack on titan",
+          "img": "./img/movie24.jpg",
+          "rating": "9.1",
+          "trailer": "https://www.youtube.com/embed/LV-nazLVmgo?si=GI1-dmZW5ypj6yik",
+          "description": "After his hometown is destroyed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+          "type": "anime"
+        },
+        {
+          "id": 25,
+          "name": "Hunter X Hunter",
+          "img": "./img/movie25.jpg",
+          "rating": "9.0",
+          "trailer": "https://www.youtube.com/embed/d6kBeJjTGnY?si=_Z5NwsiSlL8ITAJS",
+          "description": "Hunter × Hunter is a Japanese manga series written and illustrated by Yoshihiro Togashi. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since March 1998, although the manga has frequently gone on extended hiatuses since 2006.",
+          "type": "anime"
+        },
+        {
+          "id": 26,
+          "name": "Naruto: Shippuden",
+          "img": "./img/movie30.jfif",
+          "rating": "8.7",
+          "trailer": "https://www.youtube.com/embed/ZnL6hjwcRqQ",
+          "description": "The continuation of Naruto's story, following his return to Konoha after two and a half years of training, as he and his allies face the formidable threat of the Akatsuki organization.",
+          "type": "anime"
+        },
+        {
+          "id": 27,
+          "name": "My Hero Academia",
+          "img": "./img/movie27.png",
+          "rating": "8.0",
+          "trailer": "https://www.youtube.com/embed/fXbY97v2k4s",
+          "description": "In a world where nearly everyone has superpowers (Quirks), a Quirkless boy named Izuku Midoriya inherits the power of the world's greatest hero, All Might, and enrolls in a prestigious hero academy.",
+          "type": "anime"
+        },
+        {
+          "id": 28,
+          "name": "Haikyu!!",
+          "img": "./img/movie28.jpg",
+          "rating": "8.8",
+          "trailer": "https://www.youtube.com/embed/OQu2orbv_KA",
+          "description": "Shoyo Hinata, a short but determined student, aims to become a great volleyball player, despite his stature, after seeing the 'Little Giant' play. He joins Karasuno High School's team.",
+          "type": "anime"
+        },
+        {
+          "id": 29,
+          "name": "Mob Psycho 100",
+          "img": "./img/movie29.jpg",
+          "rating": "8.8",
+          "trailer": "https://www.youtube.com/embed/c0tF0q5xJ00",
+          "description": "Shigeo 'Mob' Kageyama is a mild-mannered middle schooler with immense psychic power. He works for a self-proclaimed psychic master, trying to suppress his emotions to prevent his powers from going out of control.",
+          "type": "anime"
+        },
+        {
+          "id": 30,
+          "name": "Neon Genesis Evangelion",
+          "img": "./img/movie32.jpg",
+          "rating": "8.5",
+          "trailer": "https://www.youtube.com/embed/13M_b398YyA",
+          "description": "In a post-apocalyptic world, teenage Shinji Ikari is recruited by his estranged father to pilot a giant bio-machine called an Evangelion to combat monstrous beings known as Angels.",
+          "type": "anime"
+        },
+        {
+          "id": 31,
+          "name": "One Piece",
+          "img": "./img/movie31.jpg",
+          "rating": "8.7",
+          "trailer": "https://www.youtube.com/embed/l6kp780S-os",
+          "description": "Monkey D. Luffy and his pirate crew, the Straw Hat Pirates, explore the Grand Line in search of the world's ultimate treasure, known as 'One Piece,' to become the next King of the Pirates. Known for its world-building and epic scale.",
+          "type": "anime"
+        },
+        {
+          "id": 32,
+          "name": "Demon Slayer: Kimetsu no Yaiba",
+          "img": "./img/movie33.webp",
+          "rating": "8.6",
+          "trailer": "https://www.youtube.com/embed/PraFso1sVIc",
+          "description": "After his family is murdered and his sister is turned into a demon, Tanjiro Kamado joins the Demon Slayer Corps to hunt down the killer and find a way to make his sister human again. Famous for its stunning animation quality.",
+          "type": "anime"
+        },
+        {
+          "id": 33,
+          "name": "Arcane",
+          "img": "./img/movie34.jpg",
+          "rating": "9.1",
+          "trailer": "https://www.youtube.com/embed/3Svs_hl897c",
+          "description": "Amidst the escalating unrest between the rich, utopian city of Piltover and the seedy, oppressed underbelly of Zaun, sisters Vi and Powder find themselves embroiled in a developing conflict over clashing convictions and arcane technologies. (Based on League of Legends.)",
+          "type": "anime"
+        }
+        
+        
+   
+      
+  ]
+  

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script> 
+    <link rel="stylesheet" href="./style.css">
+    <title>Ratix</title>
+    
+</head>
+<body class="bg-[#0e0e0e]">
+    <style>
+        
+    </style>
+    <header class="bg-black text-white flex items-center justify-around  py-5">
+        <div class="flex items-center gap-3">
+        <img class="w-5" src="./img/critics-logo.svg" alt="">
+        <a class="hover:text-[#ce2a4a] transition-all duration-500 uppercase text-[10px] md:text-xs font-montserrat"  href="">ratix.io <span class="border-l border-gray-600 pl-2 uppercase text-[10px] md:text-xs">Reviews by you, for you</span></a>
+        </div>
+        <nav class="hidden md:block">
+            <ul class="uppercase font-montserrat text-xs font-thin flex items-center gap-5 ">
+                <li><a class="hover:text-[#ce2a4a] transition-all duration-500" href="">Movies</a></li>
+                <li><a class="hover:text-[#ce2a4a] transition-all duration-500" href="">Reviews</a></li>
+                <li><a class="hover:text-[#ce2a4a] transition-all duration-500" href="">About</a></li>
+                <li><a class="hover:text-[#ce2a4a] transition-all duration-500" href="">Login / Signup</a></li>
+            </ul>
+        </nav>
+        <div class="block md:hidden">
+            <a href="">
+                <i class="fa-solid fa-bars text-lg"></i>
+            </a>
+        </div>
+    </header>
+    <section class="md:px-56 ">
+        <!-- Slider main container -->
+<div class="swiper ">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper ">
+      <!-- Slides -->
+      <div class="relative swiper-slide ">
+        <img class="w-full" src="./img/bg1.webp" alt="">
+        <div class="absolute inset-0  flex items-center justify-center flex-col gap-5 xl:gap-24 object-cover " style="box-shadow: inset 0px -69px 98px 43px #111111;">
+        <h1 class="text-white font-montserrat  font-bold text-sm xl:text-5xl uppercase">ZOOTOPIA 2</h1>
+        <div class="text-white flex gap-5 ">
+            <button class="bg-[#ce2a4a] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch Reviews</button>
+            <button class="bg-[#999999] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch trailer </button>
+        </div>
+        </div>
+    </div>
+    <div class="relative swiper-slide">
+        <img class=" w-full" src="./img/avtr.jpg" alt="">
+        <div class="absolute inset-0  flex items-center justify-center flex-col gap-5 xl:gap-24 object-cover " style="box-shadow: inset 0px -69px 98px 43px #111111;">
+        <h1 class="text-white font-montserrat  font-bold text-sm xl:text-5xl uppercase">Avatar: The Way of Water</h1>
+        <div class="text-white  flex gap-5 ">
+            <button class="bg-[#ce2a4a] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch Reviews</button>
+            <button class="bg-[#999999] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch trailer </button>
+        </div>
+        </div>
+    </div>
+    <div class="relative swiper-slide">
+        <img class="w-full" src="./img/thedarkknight.jpg" alt="">
+        <div class="absolute inset-0  flex items-center justify-center flex-col xl:gap-24 gap-5 object-cover " style="box-shadow: inset 0px -69px 98px 43px #111111;">
+        <h1 class="text-white font-montserrat  font-bold text-sm xl:text-5xl uppercase">the dark knight</h1>
+        <div class="text-white  flex gap-5 ">
+            <button class="bg-[#ce2a4a] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch Reviews</button>
+            <button class="bg-[#999999] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch trailer </button>
+        </div>
+        </div>
+    </div>
+    <div class="relative swiper-slide">
+        <img class="object-cover w-full" src="./img/thehungergames.jpg" alt="">
+        <div class="absolute inset-0  flex items-center justify-center flex-col gap-5 xl:gap-24 object-cover " style="box-shadow: inset 0px -69px 98px 43px #111111;">
+        <h1 class="text-white font-montserrat  font-bold text-sm xl:text-5xl uppercase">the hunger games</h1>
+        <div class="text-white  flex gap-5 ">
+            <button class="bg-[#ce2a4a] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch Reviews</button>
+            <button class="bg-[#999999] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch trailer </button>
+        </div>
+        </div>
+    </div>
+    <div class="relative swiper-slide">
+        <img class="w-full" src="./img/Drs.jpg" alt="">
+        <div class="absolute inset-0  flex items-center justify-center flex-col gap-5 xl:gap-24 object-cover " style="box-shadow: inset 0px -69px 98px 43px #111111;">
+        <h1 class="text-white font-montserrat  font-bold text-sm xl:text-5xl uppercase ">Doctor Strange</h1>
+        <div class="text-white  flex gap-5 ">
+            <button class="bg-[#ce2a4a] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch Reviews</button>
+            <button class="bg-[#999999] rounded-3xl xl:px-8 xl:py-3 p-2 text-[10px] xl:text-xs font-montserrat uppercase">Watch trailer </button>
+        </div>
+        </div>
+    </div>
+      ...
+    </div>
+    <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
+  
+    <!-- If we need scrollbar -->
+    <div class="swiper-scrollbar"></div>
+  </div>
+    </section>
+    <section class="md:px-56 px-5  pt-10 flex flex-col gap-5 ">
+        <h1 class="text-white font-montserrat uppercase text-2xl border-l-4 pl-4 border-[#ce2a4a]">Top Rated</h1>
+        <div>
+            <div class="slider_productS slide  flex items-center justify-center  py-5 ">
+              <div class="container relative ">
+      
+                  <div class="slide_product mySwiper shadow-2xl flex flex-col-reverse items-center gap-5   overflow-hidden  ">
+                      <div class=" swiper-wrapper  flex " id="TopMovies">
+                        
+                        
+                          
+                      </div>
+                      <div class="swiper-button-prev text-white"></div>
+                      <div class="swiper-button-next text-white"></div>
+                      
+                  </div>
+                   
+              </div>
+          </div>
+           </div>
+        
+    </section>
+    <section class="md:px-56 px-5  pt-10 flex flex-col gap-5 ">
+        <h1 class="text-white font-montserrat uppercase text-2xl border-l-4 pl-4 border-[#ce2a4a]">Explore</h1>
+        <div>
+            <div class="slider_productS slide  flex items-center justify-center  py-5 ">
+              <div class="container relative ">
+      
+                  <div class="slide_product mySwiper shadow-2xl flex flex-col-reverse items-center gap-5   overflow-hidden  ">
+                      <div class=" swiper-wrapper  flex " id="AllMovies">
+                        
+                        
+                          
+                      </div>
+                      <div class="swiper-button-prev text-white"></div>
+                      <div class="swiper-button-next text-white"></div>
+                      
+                  </div>
+                   
+              </div>
+          </div>
+           </div>
+        
+    </section>
+    <section class="md:px-56 px-5  pt-10 flex flex-col gap-5 ">
+        <h1 class="text-white font-montserrat uppercase text-2xl border-l-4 pl-4 border-[#ce2a4a]">Anime</h1>
+        <div>
+            <div class="slider_productS slide  flex items-center justify-center  py-5 ">
+              <div class="container relative ">
+      
+                  <div class="slide_product mySwiper shadow-2xl flex flex-col-reverse items-center gap-5   overflow-hidden  ">
+                      <div class=" swiper-wrapper  flex " id="AnimeMovies">
+                        
+                        
+                          
+                      </div>
+                      <div class="swiper-button-prev text-white"></div>
+                      <div class="swiper-button-next text-white"></div>
+                      
+                  </div>
+                   
+              </div>
+          </div>
+           </div>
+        
+    </section>
+
+    <footer class="pb-5 mt-24 px-5 md:px-52 py-5" style="border-top: 1px solid #333;" >
+        <div class="flex flex-col gap-5">
+            <p class="md:text-xs text-[10px] font-bold uppercase text-gray-400 text-center">See also: New Movies Coming Out MCU Movies Streaming Originals Monday Mystery Movie</p>
+            <p class="md:text-xs text-center text-[10px] font-bold uppercase text-gray-400">© 2025 Ratix.io</p>
+        </div>
+
+    </footer>
+        
+  <script src="./script.js"></script>
+</body>
+</html>
