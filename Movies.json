@@ -169,7 +169,7 @@
           "img": "./img/movie20.jpg",
           "rating": "9.3",
           "trailer": "https://www.youtube.com/embed/PLl99DlL6b4?si=cS2UQELwqrXzQMx4",
-          "description": "a powerful drama about banker Andy Dufresne (Tim Robbins), wrongly convicted of murdering his wife, who spends nearly two decades in the brutal Shawshank State Penitentiary, forming a deep friendship with fellow inmate Red (Morgan Freeman) while maintaining hope, using his financial skills for the corrupt warden, and secretly plotting a remarkable escape, exploring themes of friendship, perseverance, and freedom"
+          "description": "a powerful drama about banker Andy Dufresne (Tim Robbins), wrongly convicted of murdering his wife, who spends nearly two decades in the brutal Shawshank State Penitentiary, forming a deep friendship with fellow inmate Red (Morgan Freeman) while maintaining hope."
         },
         {
           "id": 21,
@@ -290,4 +290,5 @@
    
       
   ]
+
   
