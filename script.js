@@ -188,7 +188,7 @@ const swiper = new Swiper('.swiper', {
         </div>
         <div class="bg-[#1f1f1f] w-full p-5 sm:flex sm:flex-row flex-col gap-5">
             <div class="md-96   flex flex-col items-center sm:items-start gap-5">
-                <img class="sm:w-44 md:h-72 w-full object-cover rounded-2xl" src="${Movie.img}" alt="">
+                <img class="md:w-72 md:h-72 lg:w-44  w-full object-cover rounded-2xl" src="${Movie.img}" alt="">
                 <button class="rateButton text-blue-400 hover:bg-[#333333]/50 font-montserrat font-semibold w-full sm:w-44 md:w-full bg-[#333333] px-5 py-2 text-sm rounded-lg"><i class="fa-star fa-regular text-blue-400"></i> Rate</button>
             </div>
 
@@ -233,4 +233,5 @@ const swiper = new Swiper('.swiper', {
   fetchData();
   fetchD();
   
+
   
